@@ -11,7 +11,7 @@
     "@testing-library/user-event": "^12.8.3",
     "bignumber.js": "^9.0.1",
     "chai": "^4.3.4",
-    "ethereum-waffle": "^3.3.0",
+    "ethereum-waffle": "^4.0.9",
     "ethers": "^5.1.4",
     "hardhat": "^2.2.1",
     "react": "^17.0.2",
